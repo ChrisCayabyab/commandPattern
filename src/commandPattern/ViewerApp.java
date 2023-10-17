@@ -19,11 +19,12 @@ public class ViewerApp {
         char choice, option;
         while (replayOutside) {
             boolean replay = true;
-            System.out.print("[1]:Thermostat\n" +
-                    "[2]:Light\n" +
-                    "[3]:MusicPlayer\n" +
-                    "[4]:End program\n" +
-                    "What device would you like to turn on?");
+            System.out.print("""
+                    [1]:Thermostat
+                    [2]:Light
+                    [3]:MusicPlayer
+                    [4]:End program
+                    What device would you like to turn on?""");
 
             choice = scanner.next().charAt(0);
             switch (choice) {
