@@ -17,4 +17,5 @@ Design a system that allows you to control multiple smart home devices with ease
   Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
 
 UML Diagram:
-[Cayabyab.pdf](https://github.com/ChrisCayabyab/commandPattern/files/12931644/Cayabyab.pdf)
+[Cayabyab_UML_Diagram.pdf](https://github.com/ChrisCayabyab/commandPattern/files/12933900/Cayabyab_UML_Diagram.pdf)
+
